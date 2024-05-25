@@ -1,1 +1,1 @@
-# Garik205.ResponsiveNavbarMountain.github.io
+# Garik205.github.io
